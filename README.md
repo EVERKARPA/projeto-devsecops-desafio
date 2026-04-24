@@ -1,5 +1,7 @@
 # Desafio DevSecOps — Gerenciador de Tarefas
 
+https://github.com/EVERKARPA/projeto-devsecops-desafio
+
 ## Sobre o Projeto
 Este repositório faz parte do desafio prático do módulo de DevSecOps da ADA Tech.
 Você receberá este projeto com vulnerabilidades propositais e uma pipeline incompleta.
