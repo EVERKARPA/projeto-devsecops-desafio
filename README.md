@@ -22,8 +22,15 @@ A pipeline está **incompleta**. Os steps de segurança precisam ser implementad
 - [ ] Deploy com **GitHub Pages**
 
 ## Como a pipeline funciona
-> **Substitua este bloco pela sua explicação após implementar a pipeline.**
-> Descreva cada step, o que ele faz e por que ele é importante para a segurança.
+> 🚀 Em DevOps (CI/CD) entendemos que a pipeline automatiza o ciclo de desenvolvimento:
+Código é enviado (commit)
+Testes são executados
+Build é gerado
+Deploy acontece automaticamente.
+> O Gitleaks foi utilizado com o objetivo de procurar coisas que não deveriam estar no código, como senhas e chaves.
+> O Semgrep examina o código sem executar - para encontrar bugs, vulnerabilidades e más práticas.
+> O Grype é uma ferramenta usada para encontrar vulnerabilidades em dependências e imagens de containers.
+> O GitHub Pages é um serviço do GitHub que permite publicar sites estáticos diretamente de um repositório.
 
 ## URL de Produção
 > https://github.com/EVERKARPA/projeto-devsecops-desafio
